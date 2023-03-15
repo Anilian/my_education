@@ -18,4 +18,8 @@ Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 ph
                            |labels
 ## 3. Training using the online GPU google collab
 Using a step-by-step guide we trained the model on 50 epochs. It took about 25 minutes and obtained the following metrics.
+
+<img src = "https://github.com/Anilian/my_education/blob/main/YOLO/results.png" width="1200" height="600" />
+
 The predictions on the test sample showed excellent results
+<img src = "https://github.com/Anilian/my_education/blob/main/YOLO/228.jpg" width="300" height="300" />
