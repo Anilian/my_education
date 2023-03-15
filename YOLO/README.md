@@ -7,6 +7,7 @@ Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 ph
 
 <img src = "https://github.com/Anilian/my_education/blob/main/YOLO/cvat_label.png" width="300" height="300" />
 ## 2. Dataset organization of YOLOv8
+
 |The structure of the google.drive file org chart
 ---own_dataset----|custom_data.yaml
                   |yolov8x-seg_custom.yaml
@@ -16,6 +17,7 @@ Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 ph
                                       |labels
                   |val---- |images
                            |labels
+                           
 ## 3. Training using the online GPU google collab
 Using a step-by-step guide we trained the model on 50 epochs. It took about 25 minutes and obtained the following metrics.
 
