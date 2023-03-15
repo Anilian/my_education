@@ -3,10 +3,10 @@
 ### 1.1 Open Images Dataset V7.
 This can be done by following the instructions in the file DataSet for train YOLOv4.ipthon, using the marked images on a large number of classes. 
 ### 1.2 Labeling own photo 
-Using computer vision annotation[tool](https://app.cvat.ai/tasks?page=1) 300 photos were labeled
+Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 photos were labeled
 
-<img src = "https://github.com/Anilian/my_education/blob/main/YOLO/cvat_label.png" width="200" height="200" />
-
+<img src = "https://github.com/Anilian/my_education/blob/main/YOLO/cvat_label.png" width="300" height="300" />
+## 2. Dataset organization of YOLOv8
 |The structure of the google.drive file org chart
 ---own_dataset----|custom_data.yaml
                   |yolov8x-seg_custom.yaml
@@ -16,3 +16,6 @@ Using computer vision annotation[tool](https://app.cvat.ai/tasks?page=1) 300 pho
                                       |labels
                   |val---- |images
                            |labels
+## 3. Training using the online GPU google collab
+Using a step-by-step guide we trained the model on 50 epochs. It took about 25 minutes and obtained the following metrics.
+The predictions on the test sample showed excellent results
