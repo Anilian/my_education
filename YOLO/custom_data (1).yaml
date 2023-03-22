@@ -1,0 +1,6 @@
+train: /mydrive/colab/yolov8/custom_dataset/train/
+val: /mydrive/colab/yolov8/custom_dataset/valid/
+test: /mydrive/colab/yolov8/custom_dataset/test/
+
+nc: 2
+names: ['plastic','paper']
