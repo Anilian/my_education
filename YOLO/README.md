@@ -43,4 +43,5 @@ The project was implemented to detect garbage at a rate of 10FPS using the compu
 The task was as follows: to get the coordinates of one of the 5 areas on one track on which the garbage is moving. 
 
 <img src="https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif" alt="My Project GIF" width="300" height="300">
-
+It was also revealed the dependence of the time of detection of objects in one frame on the speed of movement of objects
+<img src = "https://github.com/Anilian/my_education/blob/main/YOLO/Analysis%20and%20Display%20time.png" width="300" height="300" />
