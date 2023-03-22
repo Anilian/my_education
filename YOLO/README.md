@@ -33,6 +33,5 @@ The predictions on the test sample showed excellent results
 ## 3.Testing using an industrial camera ##
 The project was implemented to detect garbage at a rate of 10FPS using the computer's GPU. The notepad is located [here](https://github.com/Anilian/my_education/blob/main/YOLO/Waste%20Management%20System.ipynb). 
 The task was as follows: to get the coordinates of one of the 5 areas on one track on which the garbage is moving. 
-<img src="https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif" alt="My Project GIF" width="500" height="500">
+<img src="https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif" alt="My Project GIF" width="300" height="300">
 
-![Alt Text](https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif)
