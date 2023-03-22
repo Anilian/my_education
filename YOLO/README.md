@@ -6,7 +6,7 @@ This can be done by following the instructions in the [notepad](https://github.c
 Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 photos were labeled
 
 <img src = "https://github.com/Anilian/my_education/blob/main/YOLO/cvat_label.png" width="300" height="300" />
-## 1.3 Dataset organization of YOLOv8
+## 1.3 Dataset organization of YOLOv8 ##
 The structure of the google.drive file org chart
 
 ```bush                           
