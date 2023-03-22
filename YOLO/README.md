@@ -17,7 +17,7 @@ Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 ph
                                       |labels
                   |val---- |images
                            |labels
-                           
+```bush                           
 $ own_dataset
 .
 ├── train
@@ -31,6 +31,7 @@ $ own_dataset
 │   └── labels
 ├── custom_data.yaml
 └── yolov8x-seg_custom.yaml
+```
                            
 ## 2. Training using the online GPU google collab
 The [notebook](https://github.com/Anilian/my_education/blob/main/YOLO/train_yolov8.ipynb) describes the procedure for training and validation
