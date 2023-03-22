@@ -7,19 +7,9 @@ Using computer vision annotation [tool](https://app.cvat.ai/tasks?page=1) 300 ph
 
 <img src = "https://github.com/Anilian/my_education/blob/main/YOLO/cvat_label.png" width="300" height="300" />
 ## 1.3 Dataset organization of YOLOv8
-
-|The structure of the google.drive file org chart
----own_dataset----|custom_data.yaml
-                  |yolov8x-seg_custom.yaml
-                  |train--------------------------|images
-                                                  |labels
-                  |test---------------|images
-                                      |labels
-                  |val---- |images
-                           |labels
 ```bush                           
-$ own_dataset
-.
+The structure of the google.drive file org chart
+own_dataset
 ├── train
 │   ├── images
 │   └── labels
