@@ -34,3 +34,4 @@ The predictions on the test sample showed excellent results
 The project was implemented to detect garbage at a rate of 10FPS using the computer's GPU. The notepad is located [here](https://github.com/Anilian/my_education/blob/main/YOLO/Waste%20Management%20System.ipynb). 
 The task was as follows: to get the coordinates of one of the 5 areas on one track on which the garbage is moving. 
 ![Alt Text](https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif")
+<img src="https://github.com/Anilian/my_education/blob/main/YOLO/Slow%20test.gif" width="40" height="40" />
