@@ -1,4 +1,4 @@
-# Python-Algorit-Stepik (Tasks solution)
+# Python-Algoritms-Stepik (Tasks solution)
 
  ![Python-Algorit-Stepik (Tasks solution)](https://github.com/mvgugaev/Python-Algorithm-Stepik/blob/master/media/rep_logo.png)
  
