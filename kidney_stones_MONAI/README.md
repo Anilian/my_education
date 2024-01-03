@@ -8,14 +8,23 @@
 
 **Data:**
 For training, data from 10 patients with the following class ratio were used
+
 patient_label_1.nii.gz: кол-во фото с камнем 5, без - 123 
+
 patient_label_2.nii.gz: кол-во фото с камнем 7, без - 121 
+
 patient_label_3.nii.gz: кол-во фото с камнем 8, без – 120
+
 patient_label_4.nii.gz: кол-во фото с камнем 14, без - 114 
+
 patient_label_5.nii.gz: кол-во фото с камнем 7, без - 121 
+
 patient_label_6.nii.gz: кол-во фото с камнем 19, без - 109 
-patient_label_7.nii.gz: кол-во фото с камнем 12, без - 116 
+
+patient_label_7.nii.gz: кол-во фото с камнем 12, без - 116
+
 patient_label_9.nii.gz: кол-во фото с камнем 6, без - 122 
+
 patient_label_10.nii.gz: кол-во фото с камнем 5, без - 123
 
 **Method:** google collab GPU with 15gb was used
