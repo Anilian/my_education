@@ -27,8 +27,8 @@ For training, data from 10 patients with the following class ratio were used
 
   patient_label_10.nii.gz: кол-во фото с камнем 5, без - 123
 
-**Method:** google collab GPU with 15gb was used
-Batch size = 1 and size one image 192x192
+**Method:** google collab GPU with 15gb was used. Batch size = 1 and size one image 192x192
+
 The study used UNet, UNETR, SwinUNETR, different types of optimizers (Adam, SGD, AdamW) and DiceLoss function parameters (include_background =False or true)
 
 **Results:** the model is not trained
