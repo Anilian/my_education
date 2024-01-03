@@ -21,3 +21,9 @@ Batch size = 1 and size one image 192x192
 The study used UNet, UNETR, SwinUNETR, different types of optimizers (Adam, SGD, AdamW) and DiceLoss function parameters (include_background =False or true)
 
 **Results:** the model is not trained
+![image](https://github.com/Anilian/my_education/assets/122607689/a5d2abcf-45d7-4546-92b3-72a811f335d3)
+![image](https://github.com/Anilian/my_education/assets/122607689/825d17f3-fbed-41f3-8767-d321d7d72187)
+![image](https://github.com/Anilian/my_education/assets/122607689/cda3d47a-ddc6-4b44-88c4-be7025e5c310)
+
+
+
